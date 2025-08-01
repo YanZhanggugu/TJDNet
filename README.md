@@ -8,3 +8,8 @@ code：r5a5 (Light dataset)
 
 Pre-trained model download link：https://pan.baidu.com/s/1Pl36DB2HEJkhQL0ei2VSqA?pwd=fdx6 
 code：fdx6 (NTURain dataset)
+
+
+
+
+ps：Additionally, you need to create your own checkpoints, tensorboard, and datasets folders in the project.
