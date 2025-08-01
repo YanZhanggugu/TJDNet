@@ -1,0 +1,3 @@
+# ninja log v5
+0	15310	1652429569987000170	/home/disk1/zwz/derainCode/PCD_part/dcn/build/temp.linux-x86_64-3.8/src/deform_conv_cuda_kernel.o	d6104e9d8bcb6eaa
+0	27509	1652429582179111463	/home/disk1/zwz/derainCode/PCD_part/dcn/build/temp.linux-x86_64-3.8/src/deform_conv_cuda.o	7a289aeb9ba4b78d
